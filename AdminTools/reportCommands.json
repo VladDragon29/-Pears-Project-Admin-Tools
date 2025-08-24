@@ -1,7 +1,4 @@
 [{
-    "description":"Тест 1",
-    "command":"/qwe"
-  },{
-    "command":"/asd",
-    "description":"Тест 22"
+    "description":"Приветствую, сейчас вам помогу.",
+    "command":"/anh"
   }]
