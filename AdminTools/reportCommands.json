@@ -1,0 +1,7 @@
+[{
+    "description":"Тест 1",
+    "command":"/qwe"
+  },{
+    "command":"/asd",
+    "description":"Тест 22"
+  }]
