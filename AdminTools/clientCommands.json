@@ -2,6 +2,5 @@
     { "command": "/adm", "description": "Заступить на дежурство" },
     { "command": "/g [ID]", "description": "Телепортироваться к игроку" },
     { "command": "/gh [ID]", "description": "Телепортировать игрока к себе" },
-    { "command": "/az", "description": "Телепортироваться в админ зону" },
-    { "command": "/test", "description": "test" }
+    { "command": "/az", "description": "Телепортироваться в админ зону" }
 ]
