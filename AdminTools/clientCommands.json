@@ -2,5 +2,10 @@
     { "command": "/adm", "description": "Заступить на дежурство" },
     { "command": "/g [ID]", "description": "Телепортироваться к игроку" },
     { "command": "/gh [ID]", "description": "Телепортировать игрока к себе" },
-    { "command": "/az", "description": "Телепортироваться в админ зону" }
+    { "command": "/az", "description": "Телепортироваться в админ зону" },
+    { "command": "/mpstart [1-6]", "description": "Начать мероприятие" },
+    { "command": "/mprules", "description": "Правила мероприятий" },
+    { "command": "/mpprize [text]", "description": "Приз мероприятия" },
+    { "command": "/mpwin [0-20] [ID]", "description": "Победитель/ли мероприятия" },
+    { "command": "/adi", "description": "Рандомный победитель часа" }
 ]
