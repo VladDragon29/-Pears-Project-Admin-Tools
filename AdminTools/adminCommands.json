@@ -377,7 +377,7 @@
     { "lvl": "8", "command": "/createdaily", "description": "Перезапустить ежедневные задания игроку" },
     { "lvl": "8", "command": "/givevip", "description": "Дать VIP-статус" },
     { "lvl": "8", "command": "/tun", "description": "Установить тюнинг без сохранения в базу" },
-    { "lvl": "8", "command": "/tungro", "description": "Установить тюнинг в радиусе без сохранения в базу" },
+    { "lvl": "8", "command": "/tungro", "description": "Установить тюнинг в радиусе без сохранения \nв базу" },
     { "lvl": "8", "command": "/philin", "description": "Вывести координаты" },
     { "lvl": "8", "command": "/givebiz", "description": "Выдать бизнес" },
     { "lvl": "8", "command": "/givedom", "description": "Выдать дом" },
